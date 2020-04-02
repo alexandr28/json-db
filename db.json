@@ -1,0 +1,84 @@
+{
+    "cursos":[
+        {
+            "id":1,
+            "title":"React 2020",
+            "image":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
+            "price":24,
+            "imgProfe":"https://api.ed.team/files/avatars/6dbe3f62-f119-46b7-8d50-632c986c0d3a.jpg",
+            "profesor":"Alexandr Campos"
+        },
+        {
+            "id":2,
+            "title":"GO 2020",
+            "image":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-03/Go-desde-cero.png",
+            "price":28,
+            "imgProfe":"https://api.ed.team/files/avatars/6dbe3f62-f119-46b7-8d50-632c986c0d3a.jpg",
+            "profesor":"Alexandr Campos"
+        },
+        {
+            "id":3,
+            "title":"Vue 2020",
+            "image":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-10/Vue-JS.png",
+            "price":24,
+            "imgProfe":"https://api.ed.team/files/avatars/6dbe3f62-f119-46b7-8d50-632c986c0d3a.jpg",
+            "profesor":"Alexandr Campos"
+        },
+        {
+            "id":4,
+            "title":"RxJS 2020",
+            "image":"https://res.cloudinary.com/edteam/image/upload/v1581437964/rxjs-poster-_v3.png",
+            "price":28,
+            "imgProfe":"https://api.ed.team/files/avatars/6dbe3f62-f119-46b7-8d50-632c986c0d3a.jpg",
+            "profesor":"Alexandr Campos"
+        },
+        {
+            "id":5,
+            "title":"Android 2020",
+            "image":"https://drupal.ed.team/sites/default/files/styles/medium/public/imagenes-cdn-edteam/2019-01/Android%20Webservice.png?itok=ZOCP4JVV",
+            "price":28,
+            "imgProfe":"https://api.ed.team/files/avatars/6dbe3f62-f119-46b7-8d50-632c986c0d3a.jpg",
+            "profesor":"Alexandr Campos"
+        },
+        {
+            "id":6,
+            "title":"Flutter 2020",
+            "image":"https://drupal.ed.team/sites/default/files/styles/medium/public/imagenes-cdn-edteam/2018-12/Flutter.png?itok=MpF412ML",
+            "price":24,
+            "imgProfe":"https://api.ed.team/files/avatars/6dbe3f62-f119-46b7-8d50-632c986c0d3a.jpg",
+            "profesor":"Alexandr Campos"
+        },
+        {
+            "id":7,
+            "title":"Angular 2020",
+            "image":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-08/angular.png",
+            "price":28,
+            "imgProfe":"https://api.ed.team/files/avatars/6dbe3f62-f119-46b7-8d50-632c986c0d3a.jpg",
+            "profesor":"Alexandr Campos"
+        },
+        {
+            "id":8,
+            "title":"GraphQL",
+            "image":"https://res.cloudinary.com/edteam/image/upload/v1582956135/GraphQL_desde_cero-v09.png",
+            "price":28,
+            "imgProfe":"https://api.ed.team/files/avatars/6dbe3f62-f119-46b7-8d50-632c986c0d3a.jpg",
+            "profesor":"Alexandr Campos"
+        },
+        {
+            "id":9,
+            "title":"Google Cloud Plataform",
+            "image":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-01/gcp.png",
+            "price":28,
+            "imgProfe":"https://api.ed.team/files/avatars/6dbe3f62-f119-46b7-8d50-632c986c0d3a.jpg",
+            "profesor":"Alexandr Campos"
+        },
+        {
+            "id":10,
+            "title":"AWS Servicios de cómputo",
+            "image":"https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/aws-iv.jpg?itok=08OK4f5U",
+            "price":28,
+            "imgProfe":"https://api.ed.team/files/avatars/6dbe3f62-f119-46b7-8d50-632c986c0d3a.jpg",
+            "profesor":"Alexandr Campos"
+        }
+    ]
+}
